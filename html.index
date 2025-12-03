@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Sandwich Maker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Nom du Restaurant</h1>
+    </header>
+
+    <main>
+        <!-- Ici on mettra les sections -->
+    </main>
+
+    <footer>
+        <p>© 2025 - Mon Sandwich Maker</p>
+    </footer>
+
+</body>
+</html>
